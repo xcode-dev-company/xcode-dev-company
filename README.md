@@ -1,48 +1,69 @@
 <h1 align="center">
   <img src="https://avatars.githubusercontent.com/u/222845318?v=4" alt="X-Code Logo" width="130" />
   <br />
-  <strong>X-Code Company</strong>
+  <strong>X Code Company</strong>
 </h1>
 
 <p align="center">
-  نبني المستقبل الرقمي بحلول تقنية متكاملة، مصممة خصيصًا لأصحاب الشركات ورواد الأعمال.
-  <br />
-  منصات ذكية، تطبيقات متطورة، وهويات رقمية تليق بطموحاتك.
+  We build your digital future with smart, integrated tech solutions.<br />
+  Tailored systems, modern interfaces, and scalable platforms – all in one place.
 </p>
 
 <p align="center">
   <a href="https://xcode-dev-company.github.io/xcode-site/" target="_blank">
-    🌐 الموقع الرسمي
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" alt="Website" width="24" /> Website
   </a> •
   <a href="https://wa.me/201093943185" target="_blank">
-    📱 واتساب
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="24" /> WhatsApp
   </a> •
   <a href="https://www.facebook.com/share/169bwdoHkh/" target="_blank">
-    📘 فيسبوك
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="24" /> Facebook
   </a> •
   <a href="https://www.instagram.com/x.code123?igsh=cTI0b2RnMWNtdjM0" target="_blank">
-    📸 انستجرام
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="24" /> Instagram
   </a>
 </p>
 
 ---
 
-## 🚀 من نحن
+## 🚀 Who We Are
 
-**X-Code** شركة متخصصة في تقديم الحلول الرقمية الذكية من الألف للياء، نساعدك على تحويل فكرتك إلى نظام رقمي متكامل يعمل بكفاءة عالية.
+**X Code** is a full-service tech company that delivers custom digital solutions tailored for business owners and entrepreneurs. From concept to launch — we’ve got your back.
 
-نقدم لك:
-- تصميم واجهات احترافية وهوية بصرية قوية  
-- تطبيقات موبايل (iOS / Android) سريعة وسلسة  
-- مواقع إلكترونية حسب الطلب لأي مجال  
-- أنظمة إدارة أعمال متكاملة (موظفين، مخازن، مبيعات)  
-- دعم فني واحترافية في التعامل
+We specialize in:
+- Beautiful branding and modern UI/UX design  
+- Web platforms built specifically for your business case  
+- Mobile applications (iOS & Android) synced with control panels  
+- Desktop software and business automation systems  
+- Custom solutions for clinics, schools, e-commerce, and more
 
 ---
 
-## 💼 رؤيتنا
+## 🎯 Our Vision
 
-أن نكون الشريك الرقمي الأول لنجاح المشاريع، من خلال تقديم خدمات تقنية موثوقة ومخصصة تساعد على النمو والتوسع بثقة.
+To be the go-to digital partner for entrepreneurs and businesses by delivering smart, scalable, and secure solutions that drive results.
+
+---
+
+## 💬 Let’s Connect
+
+<p align="center">
+  <a href="https://www.facebook.com/share/169bwdoHkh/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" alt="Facebook" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/201093943185" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/whatsapp.svg" alt="WhatsApp" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/x.code123?igsh=cTI0b2RnMWNtdjM0" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://xcode-dev-company.github.io/xcode-site/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/googlechrome.svg" alt="Website" width="30" />
+  </a>
+</p>
 
 ---
 
