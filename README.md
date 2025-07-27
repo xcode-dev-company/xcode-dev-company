@@ -5,54 +5,43 @@
 <h1 align="center">Welcome to X Code 👨‍💻🚀</h1>
 
 <p align="center">
-  <b>Creative Minds Building Smart Digital Solutions</b><br />
+  <b>Creative Minds Building Smart Digital Experiences</b><br />
   <a href="https://xcode-dev-company.github.io/xcode-site/" target="_blank">🌐 Visit Our Website</a>
 </p>
 
 ---
 
-## 💡 Who We Are
+## 💡 About Us
 
-At **X Code**, we are passionate about transforming ideas into fully functional, smart, and scalable software solutions.
+At **X Code**, we build powerful digital solutions designed to elevate businesses and transform ideas into reality. From customized platforms to intuitive applications, we create seamless digital journeys that empower clients to grow, manage, and innovate with ease.
 
-We don’t just build apps or websites – **we craft tailored digital experiences** that help businesses grow, automate, and stand out.
-
-Whether you're a startup or an enterprise, our team delivers excellence with a mix of creativity, precision, and deep technical expertise.
+We focus on delivering end-to-end systems – built to solve real business problems and create lasting impact.
 
 ---
 
-## 🚀 Our Services
+## 🚀 What We Offer
 
-We specialize in a wide range of tech solutions to bring your vision to life:
+### 💻 Desktop Applications  
+Beautiful, fast, and fully tailored apps for business operations with a modern user interface and smooth experience.
 
-### <img src="https://img.icons8.com/ios-filled/30/laptop.png"/> Custom Web Development  
-From online booking systems and e-learning platforms to full company portals – we develop scalable, secure, and beautifully designed web apps using modern tech stacks.
+### 📱 Mobile Apps  
+Smart, easy-to-use mobile solutions with real-time syncing, push notifications, and full backend integration.
 
-### <img src="https://img.icons8.com/ios-filled/30/smartphone.png"/> Mobile Applications (iOS/Android)  
-Using Flutter, we deliver fast, smooth, and fully-featured mobile apps synced with dashboards, payments, and push notifications.
+### 🌐 Custom Websites  
+We build all types of web platforms – booking, clinics, education systems, employee management, or any idea you dream of.
 
-### <img src="https://img.icons8.com/ios-filled/30/monitor.png"/> Desktop Applications  
-Tailored desktop apps for Windows & macOS – built to match your business operations with offline-first performance and sleek UI.
+### 🛍️ E-Commerce Stores  
+Ready-to-launch online stores with a full admin dashboard, payment systems, order management, and a clean shopping experience.
 
-### <img src="https://img.icons8.com/ios-filled/30/paint-palette.png"/> Graphic Design & UI/UX  
-From logos and brand identity to full UI/UX design in Figma – we ensure your visual presence is powerful and consistent.
+### 🎨 Graphic & Visual Design  
+We craft unique brand identities, from logos to promotional material, and deliver pixel-perfect UI/UX designs.
 
-### <img src="https://img.icons8.com/ios-filled/30/bar-chart.png"/> Business Management Systems  
-Inventory, sales, HR, payroll, accounting – all under one roof. We create custom ERP systems that streamline your day-to-day business operations.
-
----
-
-## 🧠 Our Mindset
-
-✅ User-centric design  
-✅ Fast & scalable performance  
-✅ Clean architecture and secure code  
-✅ Seamless integration between platforms  
-✅ Full control with admin dashboards
+### 🧾 Business Management Systems  
+Integrated solutions for inventory, HR, sales, payroll, and accounting – designed to simplify and automate business processes.
 
 ---
 
-## 📲 Get In Touch
+## 🔗 Let’s Connect
 
 <div align="center">
   <a href="https://www.facebook.com/share/169bwdoHkh/" target="_blank">
@@ -69,7 +58,7 @@ Inventory, sales, HR, payroll, accounting – all under one roof. We create cust
 ---
 
 <p align="center">
-  <a href="https://xcode-dev-company.github.io/xcode-site/">
+  <a href="https://xcode-dev-company.github.io/xcode-site/" target="_blank">
     🔗 Visit Our Full Website
   </a>
 </p>
