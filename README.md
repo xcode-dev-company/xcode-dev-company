@@ -1,3 +1,5 @@
+<!-- README.md (HTML inside Markdown) -->
+
 <h1 align="center">
   <img src="https://avatars.githubusercontent.com/u/222845318?v=4" alt="X-Code Logo" width="130" />
   <br />
@@ -9,61 +11,47 @@
   Tailored systems, modern interfaces, and scalable platforms – all in one place.
 </p>
 
+<br />
+
 <p align="center">
   <a href="https://xcode-dev-company.github.io/xcode-site/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" alt="Website" width="24" /> Website
-  </a> •
-  <a href="https://wa.me/201093943185" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="24" /> WhatsApp
-  </a> •
+    🌐 Visit Our Website
+  </a>
+</p>
+
+<br />
+
+<p align="center">
   <a href="https://www.facebook.com/share/169bwdoHkh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="24" /> Facebook
-  </a> •
+    <img src="https://cdn.jsdelivr.net/npm/lineicons@4.0/icons/facebook-fill.svg" alt="Facebook" width="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/201093943185" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/lineicons@4.0/icons/whatsapp.svg" alt="WhatsApp" width="32" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/x.code123?igsh=cTI0b2RnMWNtdjM0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="24" /> Instagram
+    <img src="https://cdn.jsdelivr.net/npm/lineicons@4.0/icons/instagram-original.svg" alt="Instagram" width="32" />
   </a>
 </p>
 
 ---
 
-## 🚀 Who We Are
+## 🚀 About Us
 
-**X Code** is a full-service tech company that delivers custom digital solutions tailored for business owners and entrepreneurs. From concept to launch — we’ve got your back.
+**X Code** is a full-service software company delivering custom digital solutions for startups and businesses.
 
-We specialize in:
-- Beautiful branding and modern UI/UX design  
-- Web platforms built specifically for your business case  
-- Mobile applications (iOS & Android) synced with control panels  
-- Desktop software and business automation systems  
-- Custom solutions for clinics, schools, e-commerce, and more
-
----
-
-## 🎯 Our Vision
-
-To be the go-to digital partner for entrepreneurs and businesses by delivering smart, scalable, and secure solutions that drive results.
+🔹 Custom Web Apps (Admin Systems – Booking – LMS – Clinics – More)  
+🔹 Mobile Applications (Flutter – Android – iOS)  
+🔹 Desktop Applications for Windows/macOS  
+🔹 Business Solutions: HR, Payroll, Inventory, and Finance  
+🔹 Visual Identity & UI/UX Design  
 
 ---
 
-## 💬 Let’s Connect
+## 🎯 Our Mission
 
-<p align="center">
-  <a href="https://www.facebook.com/share/169bwdoHkh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" alt="Facebook" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/201093943185" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/whatsapp.svg" alt="WhatsApp" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/x.code123?igsh=cTI0b2RnMWNtdjM0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://xcode-dev-company.github.io/xcode-site/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/googlechrome.svg" alt="Website" width="30" />
-  </a>
-</p>
+To deliver powerful and user-friendly digital products that empower entrepreneurs and businesses to scale and succeed.
 
 ---
 
