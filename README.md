@@ -2,40 +2,57 @@
   <img src="https://avatars.githubusercontent.com/u/222845318?v=4" width="120" alt="X-Code Logo"/>
 </p>
 
-<h1 align="center">Welcome to X-Code 👨‍💻🚀</h1>
+<h1 align="center">Welcome to X Code 👨‍💻🚀</h1>
 
 <p align="center">
-  <b>Innovative Software Solutions for Ambitious Businesses</b>  
-  <br />
+  <b>Creative Minds Building Smart Digital Solutions</b><br />
   <a href="https://xcode-dev-company.github.io/xcode-site/" target="_blank">🌐 Visit Our Website</a>
 </p>
 
 ---
 
-### 💼 What We Do Best
+## 💡 Who We Are
 
-We deliver **tailor-made technology** that transforms ideas into powerful digital products:
+At **X Code**, we are passionate about transforming ideas into fully functional, smart, and scalable software solutions.
 
-| 💻 Web Systems | 📱 Mobile Apps | 🖥️ Desktop Apps | 🎨 UI/UX & Branding | 🏢 Business Management Systems |
-|:-------------:|:--------------:|:----------------:|:-------------------:|:-----------------------------:|
-| Custom platforms | Flutter (iOS/Android) | Windows/macOS | Figma designs | HR, Payroll, Accounting |
-| LMS, Booking, CRM | Real-time notifications | POS & Kiosks | Visual identity | Inventory, Sales, Invoices |
+We don’t just build apps or websites – **we craft tailored digital experiences** that help businesses grow, automate, and stand out.
 
----
-
-### 🚀 Technologies We Master
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</div>
+Whether you're a startup or an enterprise, our team delivers excellence with a mix of creativity, precision, and deep technical expertise.
 
 ---
 
-### 📲 Connect With Us
+## 🚀 Our Services
+
+We specialize in a wide range of tech solutions to bring your vision to life:
+
+### <img src="https://img.icons8.com/ios-filled/30/laptop.png"/> Custom Web Development  
+From online booking systems and e-learning platforms to full company portals – we develop scalable, secure, and beautifully designed web apps using modern tech stacks.
+
+### <img src="https://img.icons8.com/ios-filled/30/smartphone.png"/> Mobile Applications (iOS/Android)  
+Using Flutter, we deliver fast, smooth, and fully-featured mobile apps synced with dashboards, payments, and push notifications.
+
+### <img src="https://img.icons8.com/ios-filled/30/monitor.png"/> Desktop Applications  
+Tailored desktop apps for Windows & macOS – built to match your business operations with offline-first performance and sleek UI.
+
+### <img src="https://img.icons8.com/ios-filled/30/paint-palette.png"/> Graphic Design & UI/UX  
+From logos and brand identity to full UI/UX design in Figma – we ensure your visual presence is powerful and consistent.
+
+### <img src="https://img.icons8.com/ios-filled/30/bar-chart.png"/> Business Management Systems  
+Inventory, sales, HR, payroll, accounting – all under one roof. We create custom ERP systems that streamline your day-to-day business operations.
+
+---
+
+## 🧠 Our Mindset
+
+✅ User-centric design  
+✅ Fast & scalable performance  
+✅ Clean architecture and secure code  
+✅ Seamless integration between platforms  
+✅ Full control with admin dashboards
+
+---
+
+## 📲 Get In Touch
 
 <div align="center">
   <a href="https://www.facebook.com/share/169bwdoHkh/" target="_blank">
@@ -51,10 +68,8 @@ We deliver **tailor-made technology** that transforms ideas into powerful digita
 
 ---
 
-> 💬 For business inquiries or collaborations, check out our website or contact us via social platforms.
-
 <p align="center">
   <a href="https://xcode-dev-company.github.io/xcode-site/">
-    🔗 xcode-dev-company.github.io/xcode-site
+    🔗 Visit Our Full Website
   </a>
 </p>
