@@ -1,60 +1,60 @@
-<!-- README.md (HTML inside Markdown) -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/222845318?v=4" width="120" alt="X-Code Logo"/>
+</p>
 
-<h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/222845318?v=4" alt="X-Code Logo" width="130" />
+<h1 align="center">Welcome to X-Code 👨‍💻🚀</h1>
+
+<p align="center">
+  <b>Innovative Software Solutions for Ambitious Businesses</b>  
   <br />
-  <strong>X Code Company</strong>
-</h1>
-
-<p align="center">
-  We build your digital future with smart, integrated tech solutions.<br />
-  Tailored systems, modern interfaces, and scalable platforms – all in one place.
+  <a href="https://xcode-dev-company.github.io/xcode-site/" target="_blank">🌐 Visit Our Website</a>
 </p>
 
-<br />
+---
 
-<p align="center">
-  <a href="https://xcode-dev-company.github.io/xcode-site/" target="_blank">
-    🌐 Visit Our Website
-  </a>
-</p>
+### 💼 What We Do Best
 
-<br />
+We deliver **tailor-made technology** that transforms ideas into powerful digital products:
 
-<p align="center">
+| 💻 Web Systems | 📱 Mobile Apps | 🖥️ Desktop Apps | 🎨 UI/UX & Branding | 🏢 Business Management Systems |
+|:-------------:|:--------------:|:----------------:|:-------------------:|:-----------------------------:|
+| Custom platforms | Flutter (iOS/Android) | Windows/macOS | Figma designs | HR, Payroll, Accounting |
+| LMS, Booking, CRM | Real-time notifications | POS & Kiosks | Visual identity | Inventory, Sales, Invoices |
+
+---
+
+### 🚀 Technologies We Master
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+
+---
+
+### 📲 Connect With Us
+
+<div align="center">
   <a href="https://www.facebook.com/share/169bwdoHkh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/lineicons@4.0/icons/facebook-fill.svg" alt="Facebook" width="32" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://wa.me/201093943185" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/lineicons@4.0/icons/whatsapp.svg" alt="WhatsApp" width="32" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/x.code123?igsh=cTI0b2RnMWNtdjM0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/lineicons@4.0/icons/instagram-original.svg" alt="Instagram" width="32" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</p>
+</div>
 
 ---
 
-## 🚀 About Us
-
-**X Code** is a full-service software company delivering custom digital solutions for startups and businesses.
-
-🔹 Custom Web Apps (Admin Systems – Booking – LMS – Clinics – More)  
-🔹 Mobile Applications (Flutter – Android – iOS)  
-🔹 Desktop Applications for Windows/macOS  
-🔹 Business Solutions: HR, Payroll, Inventory, and Finance  
-🔹 Visual Identity & UI/UX Design  
-
----
-
-## 🎯 Our Mission
-
-To deliver powerful and user-friendly digital products that empower entrepreneurs and businesses to scale and succeed.
-
----
+> 💬 For business inquiries or collaborations, check out our website or contact us via social platforms.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=100&section=footer"/>
+  <a href="https://xcode-dev-company.github.io/xcode-site/">
+    🔗 xcode-dev-company.github.io/xcode-site
+  </a>
 </p>
